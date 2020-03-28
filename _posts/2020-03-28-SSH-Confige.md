@@ -41,11 +41,11 @@ vi /etc/ssh/sshd_config
 
 - 使用Putty KeyGen，建立SSH Key，點選Generate
 
-![](https://github.com/abnershaw/abnershaw.github.io/blob/master/assets/img/SSH/2020-03-28_13-12-31.jpg)
+![](https://raw.githubusercontent.com/abnershaw/abnershaw.github.io/master/assets/img/SSH/2020-03-28_13-12-31.jpg)
 
 - 複製Key值及輸入key comment，對應用戶名
 
-![](https://github.com/abnershaw/abnershaw.github.io/blob/master/assets/img/SSH/2020-03-28_13-12-29.jpg)
+![](https://raw.githubusercontent.com/abnershaw/abnershaw.github.io/master/assets/img/SSH/2020-03-28_13-12-29.jpg)
 
 - 登錄系統創建使用者帳號及密碼
 
@@ -95,11 +95,11 @@ systemctl restart sshd
 
 - 將Public Key & Private Key保存下來
 
-![](https://github.com/abnershaw/abnershaw.github.io/blob/master/assets/img/SSH/2020-03-28_13-12-30.jpg)
+![](https://raw.githubusercontent.com/abnershaw/abnershaw.github.io/master/assets/img/SSH//2020-03-28_13-12-30.jpg)
 
 - 開啟MobaXterm，使用圖形介面的方式匯入Key認證進行登錄
 
-![](https://github.com/abnershaw/abnershaw.github.io/blob/master/assets/img/SSH/2020-03-28_12-36-59.jpg)
+![](https://raw.githubusercontent.com/abnershaw/abnershaw.github.io/master/assets/img/SSH/2020-03-28_12-36-59.jpg)
 
 - 開啟MobaXterm，使用命令的方式進行Key認證進行登錄
 
@@ -109,15 +109,15 @@ ssh -i private.ppk david@192.168.11.11			###需指定private.ppk的路徑
 
 - 使用putty登錄
 
-![](https://github.com/abnershaw/abnershaw.github.io/blob/master/assets/img/SSH/2020-03-28_13-20-44.jpg)
+![](https://raw.githubusercontent.com/abnershaw/abnershaw.github.io/master/assets/img/SSH/2020-03-28_13-20-44.jpg)
 
 - 登錄驗證
 
-![](https://github.com/abnershaw/abnershaw.github.io/blob/master/assets/img/SSH/2020-03-28_13-23-42.jpg)
+![](https://raw.githubusercontent.com/abnershaw/abnershaw.github.io/master/assets/img/SSH/2020-03-28_13-23-42.jpg)
 
 
 
-![](https://github.com/abnershaw/abnershaw.github.io/blob/master/assets/img/SSH/2020-03-28_13-22-13.jpg)
+![](https://raw.githubusercontent.com/abnershaw/abnershaw.github.io/master/assets/img/SSH/2020-03-28_13-22-13.jpg)
 
 
 
