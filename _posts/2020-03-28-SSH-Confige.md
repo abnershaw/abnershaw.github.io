@@ -99,7 +99,7 @@ systemctl restart sshd
 
 - 開啟MobaXterm，使用圖形介面的方式匯入Key認證進行登錄
 
-![](https://raw.githubusercontent.com/abnershaw/abnershaw.github.io/master/assets/img/SSH/2020-03-28_12-36-59.jpg)
+![](https://github.com/abnershaw/abnershaw.github.io/blob/master/assets/img/SSH/2020-03-28_12-36-59.jpg)
 
 - 開啟MobaXterm，使用命令的方式進行Key認證進行登錄
 
